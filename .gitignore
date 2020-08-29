@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #_DS_store
-_DS_Store
+.DS_Store
 
 # desktop.ini
 desktop.ini
