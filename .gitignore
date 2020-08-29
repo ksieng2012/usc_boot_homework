@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#_DS_store
+_DS_Store
+
+# desktop.ini
+desktop.ini
